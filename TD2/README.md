@@ -72,3 +72,10 @@ Run the following query to check the data:
 
 ```sql
 SELECT * FROM roads;
+```
+
+---
+
+## Resources
+- [PostGIS Documentation](https://postgis.net/documentation/)
+- [QGIS Documentation](https://qgis.org/en/docs/index.html)
